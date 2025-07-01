@@ -1,2 +1,3 @@
 A SAMPLE FILE TO LEARN THE GIT REPO
 Now I am giving a small update to the repo
+writing an unwanted commit to use the stash functionality
